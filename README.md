@@ -1,0 +1,1 @@
+The objective of this project is to analyze Blinkit (online grocery delivery) sales data using SQL to gain insights into sales performance, customer behavior, product demand, and delivery efficiency. The analysis helps in identifying revenue trends, high-performing products, peak order times, and areas for business improvement.
